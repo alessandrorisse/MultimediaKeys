@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/06 09:21:48.000.715,=C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/16 15:32:47.000.720,=C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/01 12:17:23.000.190,=C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 14:13:54.000.694,=C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 14:17:48.000.888,C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\alessandro.risse\Desktop\Multmedia Keys\UPrincipal.dfm</Transaction>
+    <Transaction>2018/01/29 14:17:48.000.888,C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\alessandro.risse\Desktop\Multmedia Keys\UPrincipal.pas</Transaction>
+    <Transaction>2018/01/29 14:17:55.000.369,C:\Users\alessandro.risse\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\alessandro.risse\Desktop\Multmedia Keys\MultmediaKeys.dproj</Transaction>
+    <Transaction>2018/01/30 11:50:45.000.190,C:\Users\alessandro.risse\Desktop\Multmedia Keys\MultimediaKeys.dproj=C:\Users\alessandro.risse\Desktop\Multmedia Keys\MultmediaKeys.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
